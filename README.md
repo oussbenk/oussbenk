@@ -1,4 +1,6 @@
-<h2> Hi, I'm Oussama 👋 I'm a Developer, Speaker, and Teacher! <img align="right" src="https://gpvc.arturio.dev/oussbenk" alt="Profile views"></h2>
+<h2> Hi, I'm Oussama 👋 <img align="right" src="https://gpvc.arturio.dev/oussbenk" alt="Profile views"></h2>
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&color=%23000000&size=21&vCenter=true&width=250&height=26&lines=%F0%9F%92%BB+Developer+;%F0%9F%92%AC+Speaker;%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB+Teacher;%F0%9F%93%96+Long+Life+Learner)](https://git.io/typing-svg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=oussbenk&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20on%20GitHub&title_color=FF6C00&text_color=000000&icon_color=FF6C00&locale=" align="right">
 
