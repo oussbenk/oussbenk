@@ -50,10 +50,10 @@
   <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white">  
 </p>
 
-<h3>🧰 Research tools</h3>
+<h3>🧪 Research tools</h3>
 <p>
   <img alt="Latex" src="https://img.shields.io/badge/Latex/Lyx-444444">
-  <img alt="Terrier" src="https://img.shields.io/badge/Terrier-00979D">
+  <a href="http://terrier.org/" rel="_blank"><img alt="Terrier" src="https://img.shields.io/badge/Terrier-20628D"></a>
   <img alt="Weka" src="https://img.shields.io/badge/Weka-842929">
   <img alt="Zotero" src="https://img.shields.io/badge/Zotero-9C033A">
 </p>
