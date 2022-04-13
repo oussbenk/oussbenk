@@ -15,7 +15,7 @@
   <b><a href="https://oussamabenkhiroun.com">
     <img src="https://oussamabenkhiroun.com/blog/wp-content/uploads/2018/05/cropped-favicon-2-32x32.png" alt="website" width="16px"/> website
    </a> | 
-    <a href="https://oussamabenkhiroun.com">
+    <a href="https://www.linkedin.com/in/oussamabk/">
       <img src="https://oussamabenkhiroun.com/blog/wp-content/themes/vt-blogging/assets/img/linkedin.png" alt="linkedin" width="16px"/> linkedin
    </a>  
   </b>
